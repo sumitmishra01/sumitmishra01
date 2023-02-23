@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Sumit
 #### I am student.
-![I am student.]
+
 <!-- (https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png) -->
 
 Learning and exploring different technologies.
